@@ -187,7 +187,8 @@ PostgreSQL and run this script with cron::
 
 
 Vue based code
---------------
+==============
+
 
 Installer issues are using Vue based project stored in frontend/vue.
 
@@ -200,3 +201,6 @@ build::
 
 The last command will run forever, watching for changes made to the
 source and rebuilding the project on each update. Press Ctrl+C to interrupt it.
+
+Thank you for reading this, I hope it will help you.
+pls share and support.
